@@ -1,10 +1,10 @@
 ---
 layout: default
 title: 算法 第4版
-description: This is just another page
+description: Some notes for algorithm.
 ---
 
-## 第2章 排序
+# 第2章 排序
 
 [2.1 初级排序算法](./2_1.html)
 
